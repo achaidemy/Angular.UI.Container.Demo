@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{8E34BC61-0347-495A-8BC3-580484C638D0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Angular.UI.Container.Demo PreferredExecutionTarget="/Applications/Microsoft Edge.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Angular.UI.Container.Demo/Dockerfile">
+    <Files>
+      <File FileName="Angular.UI.Container.Demo/Dockerfile" Line="16" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Angular.UI.Container.Demo" expanded="True">
+            <Node name="Angular.UI.Container.Demo" expanded="True">
+              <Node name="Dockerfile" selected="True" />
+            </Node>
+            <Node name="docker-compose" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
